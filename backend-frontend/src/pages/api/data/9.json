@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Ceará",
+    "awayTeam": "Sport",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-05-17",
+    "time": "16:00",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Fortaleza",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2025-05-17",
+    "time": "18:30",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Grêmio",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-17",
+    "time": "21:00",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Santos",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-05-18",
+    "time": "16:00",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Vitória",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-18",
+    "time": "16:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Juventude",
+    "awayTeam": "Fluminense",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-18",
+    "time": "16:00",
+    "stadium": "Alfredo Jaconi",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Botafogo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-05-18",
+    "time": "18:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Palmeiras",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-05-18",
+    "time": "18:30",
+    "stadium": "Cícero de Souza Marques",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Atlético-MG",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-05-18",
+    "time": "20:30",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Mirassol",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-18",
+    "time": "20:30",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Fortaleza",
+    "awayTeam": "Juventude",
+    "homeScore": 5,
+    "awayScore": 0,
+    "date": "2025-05-10",
+    "time": "16:00",
+    "stadium": "Presidente Vargas (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Corinthians",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-10",
+    "time": "18:30",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Bragantino",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-10",
+    "time": "18:30",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Vasco",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-10",
+    "time": "18:30",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Bahia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-05-10",
+    "time": "21:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Sport",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 0,
+    "awayScore": 4,
+    "date": "2025-05-11",
+    "time": "16:00",
+    "stadium": "Ilha do Retiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "São Paulo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-05-11",
+    "time": "17:30",
+    "stadium": "Arena Barueri",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Fluminense",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2025-05-11",
+    "time": "17:30",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Botafogo",
+    "awayTeam": "Internacional",
+    "homeScore": 4,
+    "awayScore": 0,
+    "date": "2025-05-11",
+    "time": "20:00",
+    "stadium": "Nilton Santos (Engenhão)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Ceará",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-05-12",
+    "time": "20:00",
+    "stadium": "Allianz Parque",
+    "started": true,
+    "finished": true
+  }
+]

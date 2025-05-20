@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Sport",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-19",
+    "time": "16:00",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Flamengo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-04-19",
+    "time": "18:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Internacional",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-19",
+    "time": "21:00",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Juventude",
+    "awayTeam": "Mirassol",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-04-20",
+    "time": "11:00",
+    "stadium": "Alfredo Jaconi",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Santos",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-20",
+    "time": "16:00",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Botafogo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-04-20",
+    "time": "16:00",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Vitória",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-20",
+    "time": "18:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fortaleza",
+    "awayTeam": "Palmeiras",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-04-20",
+    "time": "18:30",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-04-20",
+    "time": "20:30",
+    "stadium": "Nabi Abi Chedid",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Ceará",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-04-21",
+    "time": "20:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  }
+]

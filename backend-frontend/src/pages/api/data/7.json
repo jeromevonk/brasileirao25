@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Fortaleza",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-05-02",
+    "time": "21:30",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Sport",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-03",
+    "time": "18:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Internacional",
+    "homeScore": 4,
+    "awayScore": 2,
+    "date": "2025-05-03",
+    "time": "18:30",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Ceará",
+    "awayTeam": "Vitória",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-05-03",
+    "time": "18:30",
+    "stadium": "Presidente Vargas (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Botafogo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-05-03",
+    "time": "21:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Palmeiras",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-05-04",
+    "time": "16:00",
+    "stadium": "Mané Garrincha",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Santos",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-05-04",
+    "time": "16:00",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Flamengo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-04",
+    "time": "18:30",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Mirassol",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-05-05",
+    "time": "19:00",
+    "stadium": "Cícero de Souza Marques",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Juventude",
+    "awayTeam": "Atlético-MG",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-05-05",
+    "time": "20:00",
+    "stadium": "Alfredo Jaconi",
+    "started": true,
+    "finished": true
+  }
+]

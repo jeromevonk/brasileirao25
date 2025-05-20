@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Botafogo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-04-12",
+    "time": "16:00",
+    "stadium": "Nabi Abi Chedid",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Juventude",
+    "awayTeam": "Ceará",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-12",
+    "time": "16:00",
+    "stadium": "Alfredo Jaconi",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Corinthians",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-04-12",
+    "time": "18:30",
+    "stadium": "Arena Barueri",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Sport",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-04-12",
+    "time": "21:00",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Mirassol",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-13",
+    "time": "16:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-13",
+    "time": "17:30",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Flamengo",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2025-04-13",
+    "time": "17:30",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Santos",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-04-13",
+    "time": "19:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fortaleza",
+    "awayTeam": "Internacional",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-04-13",
+    "time": "20:00",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Vitória",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-04-13",
+    "time": "20:30",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  }
+]

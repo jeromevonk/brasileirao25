@@ -1,0 +1,18 @@
+.tableContainer {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.stickyRank {
+    position: sticky;
+    left: 0;
+    background: white;
+    z-index: 2;
+}
+
+.stickyTeam {
+    position: sticky;
+    left: 48px; /* Adjust based on column width */
+    background: white;
+    z-index: 1;
+}
