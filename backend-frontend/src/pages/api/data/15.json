@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Fortaleza",
+    "awayTeam": "Bahia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-07-19",
+    "time": "16:00",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Grêmio",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-07-19",
+    "time": "17:30",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Santos",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2025-07-19",
+    "time": "18:30",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Corinthians",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-07-19",
+    "time": "21:00",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Ceará",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-07-20",
+    "time": "11:00",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Juventude",
+    "homeScore": 4,
+    "awayScore": 0,
+    "date": "2025-07-20",
+    "time": "16:00",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Bragantino",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-07-20",
+    "time": "16:00",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Atlético-MG",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2025-07-20",
+    "time": "17:30",
+    "stadium": "Allianz Parque",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Sport",
+    "awayTeam": "Botafogo",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-07-20",
+    "time": "17:30",
+    "stadium": "Ilha do Retiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Fluminense",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-07-20",
+    "time": "19:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  }
+]

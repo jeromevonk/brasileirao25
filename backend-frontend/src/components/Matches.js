@@ -13,11 +13,24 @@ export default function Matches(props) {
   const { currentRound, matches } = props;
 
   const [round, setRound] = React.useState(currentRound);
-  const [page, setPage] = React.useState(1);
 
   // Context
   const context = React.useContext(AppContext);
   const [team, setTeam] = context?.team || ['', undefined];
+  const [page, setPage] = React.useState(2);
+
+  // Figure out match data
+  let matchData;
+  if (team) {
+    matchData = matchesService
+      .getMatchesFromTeam(matches, team)
+      .slice((page - 1) * 13, (page - 1) * 13 + 13);
+
+      // TODO: find the optimal page number
+  } else {
+    matchData = matches[round];
+  }
+
 
   const handleChange = (name, value) => {
     if (name === 'round') {
@@ -28,16 +41,6 @@ export default function Matches(props) {
       setTeam(value)
     }
   };
-
-  // Figure out match data
-  let matchData;
-  if (team) {
-    matchData = matchesService
-      .getMatchesFromTeam(matches, team)
-      .slice((page - 1) * 13, (page - 1) * 13 + 13);
-  } else {
-    matchData = matches[round];
-  }
 
   return (
     <Stack spacing={3} sx={{ maxWidth: '400px' }}>

@@ -37,7 +37,11 @@ function Index({ matches, currentRound }) {
 
         if (value === 6) newValues.subOption = 5;
         if (value === 7) newValues.subOption = 3;
-        if (value === 8) newValues.subOption = new Date(2025, 4, 22);
+        if (value === 8) {
+          const threeDaysAgo = new Date();
+          threeDaysAgo.setDate(threeDaysAgo.getDate() - 3);
+          newValues.subOption = threeDaysAgo;
+        }
 
         return newValues;
       });
