@@ -9,28 +9,42 @@ import PagePicker from './PagePicker';
 import { matchesService } from 'src/services';
 import { AppContext } from 'src/pages/_app';
 
+const MATCHES_PER_PAGE = 13;
+
+const getDefaultPage = (matches, team) => {
+  const tempData = matchesService.getMatchesFromTeam(matches, team);
+  const indexOfNextMatch = matchesService.getIndexOfNextMatch(tempData);
+
+  // Appropriate page for the next match
+  return Math.floor(indexOfNextMatch / MATCHES_PER_PAGE) + 1;
+}
+
 export default function Matches(props) {
   const { currentRound, matches } = props;
-
   const [round, setRound] = React.useState(currentRound);
 
   // Context
   const context = React.useContext(AppContext);
   const [team, setTeam] = context?.team || ['', undefined];
-  const [page, setPage] = React.useState(2);
+  
+  // Initialize page state after we have team value
+  const [page, setPage] = React.useState(1);
+
+  // Update page when team changes
+  React.useEffect(() => {
+    if (team) {
+      const calculatedPage = getDefaultPage(matches, team);
+      setPage(calculatedPage);
+    }
+  }, [team, matches]);
 
   // Figure out match data
   let matchData;
   if (team) {
-    matchData = matchesService
-      .getMatchesFromTeam(matches, team)
-      .slice((page - 1) * 13, (page - 1) * 13 + 13);
-
-      // TODO: find the optimal page number
+    matchData = matchesService.getMatchesFromTeam(matches, team).slice((page - 1) * MATCHES_PER_PAGE, (page - 1) * MATCHES_PER_PAGE + MATCHES_PER_PAGE);
   } else {
     matchData = matches[round];
   }
-
 
   const handleChange = (name, value) => {
     if (name === 'round') {
