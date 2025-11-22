@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Mirassol",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-09-13",
+    "time": "16:00",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fortaleza",
+    "awayTeam": "Vitória",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-09-13",
+    "time": "16:00",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Internacional",
+    "homeScore": 4,
+    "awayScore": 1,
+    "date": "2025-09-13",
+    "time": "18:30",
+    "stadium": "Allianz Parque",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Corinthians",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-09-13",
+    "time": "21:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Sport",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-14",
+    "time": "11:00",
+    "stadium": "Cícero de Souza Marques",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Santos",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-14",
+    "time": "16:00",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Juventude",
+    "awayTeam": "Flamengo",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2025-09-14",
+    "time": "16:00",
+    "stadium": "Alfredo Jaconi",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Botafogo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-09-14",
+    "time": "17:30",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Ceará",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-09-14",
+    "time": "20:30",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-09-15",
+    "time": "20:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  }
+]

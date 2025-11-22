@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Sport",
+    "awayTeam": "Atlético-MG",
+    "homeScore": 2,
+    "awayScore": 4,
+    "date": "2025-11-08",
+    "time": "16:00",
+    "stadium": "Ilha do Retiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Juventude",
+    "homeScore": 1,
+    "awayScore": 3,
+    "date": "2025-11-08",
+    "time": "18:00",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Bahia",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-11-08",
+    "time": "18:30",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Bragantino",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-11-08",
+    "time": "21:00",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Ceará",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-11-09",
+    "time": "16:00",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Fluminense",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-11-09",
+    "time": "16:00",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Botafogo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-11-09",
+    "time": "16:00",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Santos",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2025-11-09",
+    "time": "18:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Palmeiras",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-09",
+    "time": "20:30",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fortaleza",
+    "awayTeam": "Grêmio",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-11-09",
+    "time": "20:30",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  }
+]

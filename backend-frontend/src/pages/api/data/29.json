@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Atlético-MG",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-10-18",
+    "time": "18:30",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Fortaleza",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-10-18",
+    "time": "21:00",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Palmeiras",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2025-10-19",
+    "time": "16:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "São Paulo",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2025-10-19",
+    "time": "18:30",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Sport",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-10-19",
+    "time": "18:30",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Ceará",
+    "awayTeam": "Botafogo",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2025-10-19",
+    "time": "18:30",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Grêmio",
+    "homeScore": 4,
+    "awayScore": 0,
+    "date": "2025-10-19",
+    "time": "20:30",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Juventude",
+    "awayTeam": "Bragantino",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-10-20",
+    "time": "19:00",
+    "stadium": "Alfredo Jaconi",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Fluminense",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-10-20",
+    "time": "19:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Vitória",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-10-20",
+    "time": "21:30",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Corinthians",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-05",
+    "time": "19:00",
+    "stadium": "Cícero de Souza Marques",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Internacional",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-11-05",
+    "time": "19:00",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Sport",
+    "awayTeam": "Juventude",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2025-11-05",
+    "time": "19:00",
+    "stadium": "Ilha do Retiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Botafogo",
+    "awayTeam": "Vasco",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2025-11-05",
+    "time": "19:30",
+    "stadium": "Nilton Santos (Engenhão)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Bahia",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2025-11-05",
+    "time": "20:00",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-11-05",
+    "time": "20:00",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Flamengo",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-11-05",
+    "time": "21:30",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Mirassol",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-11-06",
+    "time": "19:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Ceará",
+    "awayTeam": "Fortaleza",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-11-06",
+    "time": "20:00",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Santos",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-11-06",
+    "time": "21:30",
+    "stadium": "Allianz Parque",
+    "started": true,
+    "finished": true
+  }
+]

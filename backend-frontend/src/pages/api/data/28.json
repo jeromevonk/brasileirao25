@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Bragantino",
+    "homeScore": 5,
+    "awayScore": 1,
+    "date": "2025-10-15",
+    "time": "19:00",
+    "stadium": "Allianz Parque",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Botafogo",
+    "awayTeam": "Flamengo",
+    "homeScore": 0,
+    "awayScore": 3,
+    "date": "2025-10-15",
+    "time": "19:30",
+    "stadium": "Nilton Santos (Engenhão)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Internacional",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-10-15",
+    "time": "20:00",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Sport",
+    "awayTeam": "Ceará",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-15",
+    "time": "20:00",
+    "stadium": "Ilha do Retiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Corinthians",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-10-15",
+    "time": "21:30",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-15",
+    "time": "21:30",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fortaleza",
+    "awayTeam": "Vasco",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2025-10-15",
+    "time": "21:30",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "São Paulo",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-10-16",
+    "time": "19:00",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Juventude",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-10-16",
+    "time": "21:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Bahia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-10-16",
+    "time": "21:30",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  }
+]

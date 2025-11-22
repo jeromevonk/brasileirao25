@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Ceará",
+    "awayTeam": "Juventude",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-08-30",
+    "time": "16:00",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Botafogo",
+    "awayTeam": "Bragantino",
+    "homeScore": 4,
+    "awayScore": 1,
+    "date": "2025-08-30",
+    "time": "18:30",
+    "stadium": "Nilton Santos (Engenhão)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "São Paulo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-08-30",
+    "time": "21:00",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Grêmio",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-31",
+    "time": "16:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Fluminense",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-08-31",
+    "time": "16:00",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Palmeiras",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-31",
+    "time": "18:30",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Bahia",
+    "homeScore": 5,
+    "awayScore": 1,
+    "date": "2025-08-31",
+    "time": "18:30",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Atlético-MG",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-08-31",
+    "time": "18:30",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Fortaleza",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-08-31",
+    "time": "20:30",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Sport",
+    "awayTeam": "Vasco",
+    "homeScore": 2,
+    "awayScore": 3,
+    "date": "2025-08-31",
+    "time": "20:30",
+    "stadium": "Ilha do Retiro",
+    "started": true,
+    "finished": true
+  }
+]

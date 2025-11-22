@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Palmeiras",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-07-23",
+    "time": "19:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Ceará",
+    "awayTeam": "Mirassol",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2025-07-23",
+    "time": "19:00",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-07-23",
+    "time": "19:30",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Internacional",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-07-23",
+    "time": "21:30",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Flamengo",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-07-23",
+    "time": "21:30",
+    "stadium": "Cícero de Souza Marques",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Sport",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-07-23",
+    "time": "21:30",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Juventude",
+    "awayTeam": "São Paulo",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-07-24",
+    "time": "19:00",
+    "stadium": "Alfredo Jaconi",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Bahia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-09-24",
+    "time": "19:30",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Botafogo",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-24",
+    "time": "19:30",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Fortaleza",
+    "homeScore": 3,
+    "awayScore": 3,
+    "date": "2025-11-12",
+    "time": "20:30",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  }
+]

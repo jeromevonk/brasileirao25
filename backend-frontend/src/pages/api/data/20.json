@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Fortaleza",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-08-16",
+    "time": "16:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Ceará",
+    "awayTeam": "Bragantino",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-08-16",
+    "time": "16:00",
+    "stadium": "Castelão (CE)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Juventude",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-08-16",
+    "time": "18:30",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Sport",
+    "awayTeam": "São Paulo",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-08-16",
+    "time": "18:30",
+    "stadium": "Ilha do Retiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Bahia",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-08-16",
+    "time": "21:00",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Vasco",
+    "homeScore": 0,
+    "awayScore": 6,
+    "date": "2025-08-17",
+    "time": "16:00",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Grêmio",
+    "homeScore": 1,
+    "awayScore": 3,
+    "date": "2025-08-17",
+    "time": "16:00",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Flamengo",
+    "homeScore": 1,
+    "awayScore": 3,
+    "date": "2025-08-17",
+    "time": "18:30",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Botafogo",
+    "awayTeam": "Palmeiras",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-08-17",
+    "time": "20:30",
+    "stadium": "Nilton Santos (Engenhão)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-18",
+    "time": "20:00",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  }
+]
