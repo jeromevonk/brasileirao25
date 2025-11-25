@@ -73,7 +73,7 @@ function Index({ matches, currentRound }) {
             handleChange={handleChange}
             data={standings}
           />
-          <Matches 
+          <Matches
             currentRound={currentRound}
             matches={matches}
           />
