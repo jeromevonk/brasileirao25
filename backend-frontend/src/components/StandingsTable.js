@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFutbol as faSolidFutbol } from '@fortawesome/free-solid-svg-icons';
 import Team from '../components/Team';
 import { AppContext } from 'src/pages/_app';
-import { getComparator} from 'src/helpers'
+import { getComparator } from 'src/helpers'
 import styles from './StandingsTable.module.css';
 
 function StandingsTableHead(props) {
@@ -136,9 +136,9 @@ export default function StandingsTable(props) {
       <Stack direction="row" spacing={0.7}>
         {itens.map((match, index) => (
           <Tooltip key={match.tooltip} title={match.tooltip}>
-            <div style={{ 
-              display: 'flex', 
-              alignItems: 'center', 
+            <div style={{
+              display: 'flex',
+              alignItems: 'center',
               justifyContent: 'center',
             }}>
               <FontAwesomeIcon

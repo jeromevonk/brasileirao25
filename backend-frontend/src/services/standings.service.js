@@ -58,6 +58,13 @@ function iterateByRounds(standings, matches, option, subOption) {
       calculateMatch(standings, match, details.calculateHome, details.calculateAway, details.dateLimit)
     }
   }
+
+
+  // Sort last matches in descending order
+  // Why? Because of delayed matches, it's not garanteed that a match on a given round will happen before a match on a posterior round
+  for (const [key, value] of Object.entries(standings)) {
+    standings[key].lastMatches.sort((a, b) => new Date(a.date) - new Date(b.date));
+  }
 }
 
 // -----------------------------------------------
@@ -66,7 +73,7 @@ function iterateByRounds(standings, matches, option, subOption) {
 function iterateByTeam(standings, matches, _option, subOption) {
   // Get matches ordered by descending date
   const startedMatches = matchesService.getStartedMatchesInDescendingOrder(matches);
-  
+
   // For every team
   for (const team of Object.keys(standings)) {
     let toFind = subOption;
@@ -180,7 +187,7 @@ function calculateMatch(standings, match, calculateHome, calculateAway, dateLimi
         standings[homeTeam].lastMatches.push(matchToAdd);
       }
     }
-    
+
     // The away team
     if (calculateAway) {
 
@@ -191,7 +198,7 @@ function calculateMatch(standings, match, calculateHome, calculateAway, dateLimi
       const matchToAdd = getMatchSummary(match, false)
 
       // Add to last matches
-      if (addToBeginning) {
+      if (addToBeginning) { // used when iterating by team with matches sorted in descending order
         standings[awayTeam].lastMatches.unshift(matchToAdd);
       } else {
         standings[awayTeam].lastMatches.push(matchToAdd);
@@ -205,7 +212,8 @@ function getMatchSummary(match, isHome) {
   return {
     isHome,
     outcome: getOutcome(match, isHome),
-    tooltip: getHeadline(match)
+    tooltip: getHeadline(match),
+    date: match.date
   }
 }
 
@@ -214,8 +222,8 @@ function getOutcome(match, isHome) {
     return 'E';
   }
   else if (
-    ( isHome && match.homeScore > match.awayScore) ||
-    (!isHome && match.homeScore < match.awayScore) 
+    (isHome && match.homeScore > match.awayScore) ||
+    (!isHome && match.homeScore < match.awayScore)
   ) {
     return 'V'
   }
@@ -258,7 +266,7 @@ function getResults(score, oponentScore) {
 function calculateStandings(teamStandings, score, oponentScore, finished) {
   // Get results
   const results = getResults(score, oponentScore)
-  
+
   // Add to standings
   teamStandings.matches += 1
   teamStandings.points += results.points
