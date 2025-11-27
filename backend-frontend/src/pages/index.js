@@ -4,21 +4,9 @@ import Container from '@mui/material/Container';
 import { Box, Stack } from '@mui/material';
 import Standings from '../components/Standings';
 import Matches from '../components/Matches';
-import { matchesService, standingsService } from 'src/services';
+import { standingsService } from 'src/services';
 import { AppContext } from 'src/pages/_app';
 import { withRouter } from 'next/router'
-
-export async function getServerSideProps() {
-  const matches = await matchesService.getMatches();
-  const currentRound = matchesService.getCurrentRound(matches);
-
-  return {
-    props: {
-      matches,
-      currentRound
-    },
-  }
-}
 
 function Index({ matches, currentRound }) {
 
@@ -52,6 +40,8 @@ function Index({ matches, currentRound }) {
       });
     }
   };
+
+  console.log("Render index")
 
   // -----------------------------------------------------
   // Get standings

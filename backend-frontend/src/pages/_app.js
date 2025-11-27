@@ -9,6 +9,7 @@ import theme from '../theme';
 import createEmotionCache from '../createEmotionCache';
 
 import ResponsiveAppBar from 'src/components/ResponsiveAppBar';
+import { matchesService } from 'src/services';
 
 export const AppContext = React.createContext();
 // Thresholds in pixels for detecting large screen
@@ -90,6 +91,26 @@ export default function MyApp(props) {
     </CacheProvider>
   );
 }
+
+MyApp.getInitialProps = async ({ Component, ctx }) => {
+  // Fetch matches data once for the entire app
+  const matches = await matchesService.getMatches();
+  const currentRound = matchesService.getCurrentRound(matches);
+
+  let pageProps = {};
+  if (Component.getInitialProps) {
+    pageProps = await Component.getInitialProps(ctx);
+  }
+
+  // Add matches and currentRound to pageProps for all pages
+  return {
+    pageProps: {
+      ...pageProps,
+      matches,
+      currentRound,
+    },
+  };
+};
 
 MyApp.propTypes = {
   Component: PropTypes.elementType.isRequired,

@@ -13,7 +13,8 @@ const ResponsiveAppBar = () => {
 
   const navItems = [
     { label: 'Classificação', path: '/' },
-    { label: 'Matriz de Resultados', path: '/resultados-matriz' }
+    { label: 'Matriz de Resultados', path: '/resultados-matriz' },
+    { label: 'Raio-X', path: '/raio-x' }
   ];
 
   return (
