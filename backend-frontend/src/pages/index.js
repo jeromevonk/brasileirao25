@@ -15,8 +15,12 @@ function Index({ matches, currentRound }) {
   const largeScreen = context?.largeScreen;
 
   // States
-  const [standings, setStandings] = React.useState([]);
   const [selected, setSelected] = React.useState({ option: 1, subOption: 1 });
+
+  // Initialize standings immediately with default selection
+  const [standings, setStandings] = React.useState(() =>
+    standingsService.getStandings(matches, 1, 1)
+  );
 
   const handleChange = (name, value) => {
     if (name === 'option') {
@@ -48,7 +52,7 @@ function Index({ matches, currentRound }) {
   // -----------------------------------------------------
   React.useEffect(() => {
     setStandings(standingsService.getStandings(matches, selected.option, selected.subOption))
-  }, [selected.option, selected.subOption]);
+  }, [selected.option, selected.subOption, matches]);
 
 
   return (

@@ -31,9 +31,12 @@ export default function MyApp(props) {
   // ----------------------------------------
   React.useEffect(() => {
     // Set initial
-    setLargeScreen({
-      width: window.matchMedia(`(min-width: ${WIDTH_TRESHOLD}px)`).matches,
-      height: window.matchMedia(`(min-height: ${HEIGT_TRESHOLD}px)`).matches
+    const width = window.matchMedia(`(min-width: ${WIDTH_TRESHOLD}px)`).matches;
+    const height = window.matchMedia(`(min-height: ${HEIGT_TRESHOLD}px)`).matches;
+
+    setLargeScreen(prev => {
+      if (prev.width === width && prev.height === height) return prev;
+      return { width, height };
     });
 
     // Handlers

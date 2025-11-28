@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Container from '@mui/material/Container';
 import { Box, Typography } from '@mui/material';
 import { withRouter } from 'next/router';
+import RaioXTable from '../components/RaioXTable';
 
 function RaioX({ matches, currentRound }) {
     return (
@@ -14,9 +15,7 @@ function RaioX({ matches, currentRound }) {
                 <Typography variant="h4" gutterBottom>
                     Raio-X
                 </Typography>
-                <Typography variant="body1">
-                    Página em construção...
-                </Typography>
+                <RaioXTable matches={matches} />
             </Box>
         </Container>
     );
